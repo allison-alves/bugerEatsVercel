@@ -1,5 +1,5 @@
 import './home'
-import './cadastro'
+import './Register Valid Flow/register'
 
 import 'cypress-file-upload'
 

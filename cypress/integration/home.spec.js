@@ -1,5 +1,5 @@
 describe('Home Page', () => {
-    it('app deve estar online', () => {
+    it('check if the app is online', () => {
         cy.home_page()
     });
 });
